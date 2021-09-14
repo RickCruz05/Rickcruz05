@@ -1,16 +1,29 @@
-### Hi there 👋
+## :wave: Olá!! Eu sou o Ricardo.
 
-<!--
-**RickCruz05/Rickcruz05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um jovem entusiasta da tecnologia que ama a forma de como ela pode auxiliar na resolução de problemas e tornar as tarefas do dia a dia mais práticas. Busco minha primeira oportunidade nesse mercado de trabalho para que eu possa me aprofundar e aprender cada vez mais sobre o universo da programação de forma que eu possa contribuir para a criação e o crescimento dessas ferramentas. 
 
-Here are some ideas to get you started:
+<br><hr><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :hugs: Sobre mim 
+
+
+🙍‍♂️ Tenho 21 anos. <br>
+:mortar_board: Estou no 4° Período de Analise e Desenvolvimento de Sistemas. <br>
+:closed_book: Atualmente estou no fazendo o curso de desenvolvimento Web Full Stack do ProgramadorBr.
+
+<br>
+
+### 📚 Atualmente estou estudando 
+- HTML
+- CSS
+- Javascript
+
+<br>
+
+### :o:Tecnologias que tenho interesse 
+- TypeScript
+- ReactJS
+- NodeJS
+- React Native
+
+
