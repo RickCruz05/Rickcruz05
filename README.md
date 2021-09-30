@@ -1,6 +1,6 @@
 ## :wave: Olá!! Eu sou o Ricardo.
 
-<p> Sou um jovem entusiasta da tecnologia que ama a forma de como ela pode auxiliar na resolução de problemas e tornar as tarefas do dia a dia mais práticas. Busco minha primeira oportunidade nesse mercado de trabalho para que eu possa me aprofundar e aprender cada vez mais sobre o universo da programação de forma que eu possa contribuir para a criação e o  crescimento dessas ferramentas.     
+<p> Sou um jovem entusiasta da tecnologia que ama a forma de como ela pode auxiliar na resolução de problemas e tornar as tarefas do dia a dia mais práticas. Busco minha primeira oportunidade nesse mercado de trabalho para poder me aprofundar e aprender cada vez mais sobre o universo da programação de forma que eu possa contribuir para a criação e o crescimento dessas ferramentas.     
 </p>
 
 ##
