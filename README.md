@@ -8,7 +8,7 @@
   <h4>:hugs: Sobre mim</h4>
   <ul>
     <li>Tenho 21 anos.</li>
-    <li>Estou no 4º período de Análise e Desenvolvimento de Sistemas.</li>
+    <li>Estou no 5º período de Análise e Desenvolvimento de Sistemas.</li>
     <li>Atualmente estou no fazendo o curso de desenvolvimento Web Full Stack do ProgramadorBr.</li>
   </ul>
 
