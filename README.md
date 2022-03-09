@@ -17,6 +17,7 @@
     <li>HTML</li>
     <li>CSS</li>
     <li>JavaScript</li>
+    <li>NodeJs</li>
   </ul>
 
   <h4>:o:Tecnologias que tenho interesse</h4>
@@ -24,7 +25,7 @@
     <li>TypeScript</li>
     <li>ReactJS</li>
     <li>NodeJS</li>
-    <li>React Native</li>
+    <li>Elixir</li>
   </ul>
 </div> 
 
